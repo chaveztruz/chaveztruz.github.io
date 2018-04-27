@@ -6,3 +6,4 @@
 
 <a href="https://chaveztruz.github.io/PRACTICA%206.html"> Practica #6 Bootstrap</a><br>
 <a href="https://chaveztruz.github.io/practica7.html"> Practica #7 Bootstrap </a><br>
+<a href="https://chaveztruz.github.io/modalesenbootstrap.html"> Practica #8 Bootstrap </a><br>
